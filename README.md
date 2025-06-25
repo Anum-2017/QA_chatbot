@@ -75,7 +75,7 @@ Get Google Gemini API key from [here](https://aistudio.google.com/app/apikey)
 ### 6️⃣ Run QA Chatbot (Web App)
 
 ```sh
-chainlit run main.py -w
+uv run chainlit run main.py -w
 ```
 
 Go to the following URL:
